@@ -1,4 +1,5 @@
 #!/bin/bash
+lsblk
 sudo mkfs -t ext4 /dev/xvdb
 sudo mkdir /mydata
 sudo mount /dev/xvdb /mydata/

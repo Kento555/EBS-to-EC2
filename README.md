@@ -21,6 +21,7 @@ EC2 ID: ![alt text](image-5.png)
 
 # SSH Into Ec2 
 cd into “mydata” directory and check the disk space to validate the volume mount.
+
 Run command:
 cd /mydata
 df -h .
