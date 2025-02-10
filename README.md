@@ -15,8 +15,10 @@ Terminal:
 ![alt text](image-2.png)
 
 AWS Console:
-EBS ID: ![alt text](image-3.png)
-EC2 ID: ![alt text](image-5.png)
+EBS ID: 
+![alt text](image-5.png)
+EC2 ID: 
+![alt text](image-8.png)
 
 
 # SSH Into Ec2 
