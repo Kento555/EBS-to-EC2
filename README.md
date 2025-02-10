@@ -26,3 +26,5 @@ Run command:
 cd /mydata
 df -h .
 
+![s](image-7.png)
+
